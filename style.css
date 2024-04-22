@@ -1,4 +1,14 @@
 
 body{
     background-color: aquamarine;
+    color: black;
+    text-align: center;
+}
+h1 span{
+    color: brown;
+}
+
+#dias_restantes{
+    color: rgb(0, 0, 0);
+    font-size: 50px;
 }
